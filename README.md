@@ -1,0 +1,2 @@
+# premium-epoxy-fiber-001-fiberglass-and-epoxy-canoe-lay
+Tired of guessing when to mix your next batch of epoxy while your fiberglass starts to kick mid-roll? This Notion template ends the scheduling chaos of canoe layup.  The Fiberglass and Epoxy Canoe Layup Schedule transforms your build from a frantic race against pot life into a calm, step-by-step process. It auto-calculates cure windows, batch sizes
